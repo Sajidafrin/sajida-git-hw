@@ -1,7 +1,8 @@
 #include <stdio.h>
-int main()
+void full_name()
 {
-    printf  ("First file");
+    int a = 10;
+    printf  ("sajida afrin");
     return 0;
 
 
